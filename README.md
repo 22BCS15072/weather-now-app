@@ -70,7 +70,8 @@ http://localhost:5000
 ---
 
 ## 📸 Screenshots
-<video controls src="20250531-0750-12.2731913.mp4" title="Title"></video>
+🎬 [Watch the demo video](https://your-link.com/demo.mp4)
+
 ---
 
 ## 📦 Folder Structure
